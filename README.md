@@ -37,7 +37,7 @@ htmlと同じこと書いてるけど読んでね<br>
 　　OS         :windows 10 Professional<br>
 　　Excel      :office 365付属Excel最新版<br>
 　　RAM        :8GB以上<br>
-　　CPU        :4.0GHz以上、8コア<br>
+　　CPU        :4.0GHz以上、4コア8スレッド以上<br>
 <br>
 <ins>
 2020/10/21追記<br></ins>

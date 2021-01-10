@@ -33,11 +33,12 @@ htmlと同じこと書いてるけど読んでね<br>
 　　グラフィック    :グラフィック ハードウェア アクセラレーションには、DirectX 9 以降と、Windows 10 では WDDM 2.0 以降<br>
 　　.NETバージョン:一部の機能では、.NET 3.5 または 4.6 以降のインストール<br>
 <strong>　推奨動作環境</strong><br>
-　以下に示した環境を推奨動作環境とします。<br>
+　以下に示した環境を推奨動作環境及び動作確認環境とします。<br>
 　　OS         :windows 10 Professional<br>
 　　Excel      :office 365付属Excel最新版<br>
 　　RAM        :8GB以上<br>
 　　CPU        :4.0GHz以上、4コア8スレッド以上<br>
+   GPU        :NVIDIA Geforce GTX 1060 3GB以上<br>
 <br>
 <ins>
 2020/10/21追記<br></ins>

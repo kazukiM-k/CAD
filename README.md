@@ -37,7 +37,7 @@ htmlと同じこと書いてるけど読んでね<br>
 　　OS         :windows 10 Professional<br>
 　　Excel      :office 365付属Excel最新版<br>
 　　RAM        :8GB以上<br>
-　　CPU        :3.2GHz以上、8コア<br>
+　　CPU        :4.0GHz以上、4コア8スレッド以上<br>
 <br>
 <ins>
 2020/10/21追記<br></ins>
@@ -53,5 +53,8 @@ htmlと同じこと書いてるけど読んでね<br>
 ・one driveからGitHubへの移行予定<br>
 <ins>2020/11/14追記</ins><br>
 GitHubへの移行<br>
+<ins>2020/11/19追記</ins><br>
+Inventorでの使用を前提とした、3DCADでのインポート用パラメータデータ実装予定<br>
+i2自動計算.xlsxに追加導入するか、新規ファイルでの実装を予定<br>
 <br>
 ・詳しいことはREAD ME.htmlに書いてるのでそっちを読んでください。

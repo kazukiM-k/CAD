@@ -21,6 +21,7 @@ htmlと同じこと書いてるけど読んでね<br>
 　Excel2010版を使用してください。<br>
 　Webブラウザ版及びAndroid版を含む上記以外の環境下での表示崩れその他エラーについては動作保証外とします。<br>
 　また、一般的にタブレットPCと呼ばれるWindows搭載モデルのノートPCも動作保証外とします。<br>
+・AMD系PCパーツを使用したPCにおいても動作保証外とします。<br>
 ・最低動作環境及び推奨環境は以下の通りです。<br>
 　<strong>最低動作環境</strong><br>
 
@@ -36,8 +37,8 @@ htmlと同じこと書いてるけど読んでね<br>
 　以下に示した環境を推奨動作環境及び動作確認環境とします。<br>
 　　OS         :windows 10 Professional<br>
 　　Excel      :office 365付属Excel最新版<br>
-　　RAM        :8GB以上<br>
-　　CPU        :4.0GHz以上、4コア8スレッド以上<br>
+　　RAM        :DDR4 PC4-19200(2400MHz) 8GB×2 16GB以上 (DDR4 PC4-19200(2400MHz) 8GB×2 16GB + DDR4 PC4-21300(2666MHz) 8GB×2 16GB 計32GBでも動作確認を行っています)<br>
+　　CPU        :4.0GHz以上、4コア8スレッド以上 (intel core i7-7700にて動作確認をしています。)<br>
 　　GPU        :NVIDIA Geforce GTX 1060 3GB以上<br>
 <br>
 <ins>

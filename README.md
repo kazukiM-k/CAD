@@ -38,7 +38,7 @@ htmlと同じこと書いてるけど読んでね<br>
 　　Excel      :office 365付属Excel最新版<br>
 　　RAM        :8GB以上<br>
 　　CPU        :4.0GHz以上、4コア8スレッド以上<br>
-   GPU        :NVIDIA Geforce GTX 1060 3GB以上<br>
+　　GPU        :NVIDIA Geforce GTX 1060 3GB以上<br>
 <br>
 <ins>
 2020/10/21追記<br></ins>
